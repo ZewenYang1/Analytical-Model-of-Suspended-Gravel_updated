@@ -1,6 +1,6 @@
 % Analytical-Model-of-Suspended-Gravel_updated
 
-% Analytical-Model-of-Suspended-Gravel Contact: Zewen Yang (yangzewen21@mails.ucas.ac.cn) Yang et al. 2025-Saturated, smashed and suppressed: the fate of suspended gravel in large palaeofloods.
+Analytical-Model-of-Suspended-Gravel Contact: Zewen Yang (yangzewen21@mails.ucas.ac.cn) Yang et al. 2025-Saturated, smashed and suppressed: the fate of suspended gravel in large palaeofloods.
 
 This MATLAB model accompanies the paper "Saturated, smashed and suppressed: the fate of suspended gravel in large palaeofloods." by Yang Zewen, Carling Paul, Liu Weiming, Wang Hao, Yang Anna, Zhou Gordon G. D. 
 
