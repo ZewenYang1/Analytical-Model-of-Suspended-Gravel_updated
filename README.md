@@ -11,10 +11,17 @@ The model was used to analyse suspended gravel deposition and thick horizontal d
 The model consists of the following scripts:
 
 Model 1_HydraulicVariable.m
+
 Model 2_SbDivideCbConcentrationProfile.m
+
 Model 3_StProfileDistributionAndRootMeanSquareVelocity.m
+
 Model 4_StAndTimeWITHyDivideh.m
+
 Model 5_TKEwithBeta.m
+
 Model 6_RWithDifferentDepthWithTime.m
+
 Model 7_GDivideR2WithTime.m
+
 Model 8_C_starWithGR2.m
